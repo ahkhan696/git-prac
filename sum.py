@@ -1,2 +1,2 @@
 a, b = 9, 10
-print(a + b)
+print(f"sum = {a + b}")
