@@ -1,0 +1,81 @@
+[33mcommit a66ad14fdb293ef72c1b072dcb545bc7ccc0853c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m)[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 14:22:37 2025 +0500
+
+    remove the extra comment
+
+[33mcommit 8ee364b7f6360f6b6c780aa651105b0f4a1eb154[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 14:20:01 2025 +0500
+
+    re update the master file
+
+[33mcommit 28dd486c6f37e28e96600f32421e72b875dd84eb[m
+Merge: 2653f42 0946368
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 13:57:02 2025 +0500
+
+    Merge branch 'master'
+
+[33mcommit 09463687b4b17043bc06af911b47dfa9ad1d8b36[m
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 13:21:46 2025 +0500
+
+    please check if auto open in sublime
+
+[33mcommit 06bb2352d540758343783dad4568cdb3e967fdfe[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 13:20:28 2025 +0500
+
+    remove extra lines
+
+[33mcommit 963289edd9b5781a9c86bfec858c14e677e46d14[m
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 13:18:16 2025 +0500
+
+    code is updated to using a function
+
+[33mcommit a2a70f72323f5edd1fff0a3a43c500dc3867111e[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 13:14:56 2025 +0500
+
+    Added a third number
+
+[33mcommit cad32542451b97fea2f4e7b8d6a064731363f108[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 13:11:08 2025 +0500
+
+    take two numbers from user and add
+
+[33mcommit 0bdaa62ed4c5f4b2f633ab9e65438cd41131fff1[m
+Author: M. Salman Farsi <just.farsie@gmail.com>
+Date:   Sun Apr 6 12:47:58 2025 +0500
+
+    added coments and make print better
+
+[33mcommit 2653f423588b02fc5fe241a498db0c8b38bab4b5[m
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 11:50:42 2025 +0500
+
+    update print message in f string
+
+[33mcommit 9bd0b74330a394410033f88aea0b04c76d92e1bd[m
+Merge: 2cb97ff 5418cd1
+Author: Abdulhanan Khan <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 11:46:43 2025 +0500
+
+    Merge pull request #1 from ahkhan696/main
+    
+    used f string in print
+
+[33mcommit 5418cd19820bbae6b5d1deeabeeec8ca62259268[m
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 11:43:23 2025 +0500
+
+    used f string in print
+
+[33mcommit 2cb97ffab7090cdae740669568642c6f45d5ea4e[m
+Author: ahkhan696 <hafizabdulhanan@gmail.com>
+Date:   Sun Apr 6 11:22:20 2025 +0500
+
+    Initial commit: Add sum.py

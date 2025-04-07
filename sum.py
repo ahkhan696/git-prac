@@ -9,3 +9,5 @@ sum_result = sum_three(a, b, c)
 print(f"sum of these three numbers = {sum_result}")
 multiply = a * b
 print(f"multiply of these = {multiply}")
+divid = a / b
+print(f"divid of these = {divid}")
