@@ -11,3 +11,5 @@ multiply = a * b
 print(f"multiply of these = {multiply}")
 divid = a / b
 print(f"divid of these = {divid}")
+sub = a - b
+print(f"substract of these = {sub}")
